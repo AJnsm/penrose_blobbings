@@ -1,2 +1,2 @@
-# penrose_blobbings
+# Penrose Blobbings
 The `Penrose_blobbings.py` script constructs an aperioc Penrose tiling (based on [this repo](https://github.com/xnx/penrose/blob/master/penrose.py)). Each tile can get two kinds of arcs drawn on it. The ratio between these is the free parameter that I call the blob ratio. These arcs are constructed so that they connect on neighbouring tiles, mapping aperiodic tilings to aperiodic blobbings. The script outputs aperiodic blobbings across a range of blob ratios.
